@@ -4,7 +4,7 @@
 // File name  : bfloat16_adder.sv
 //            :
 // Description: Implementation of bfloat16 adder
-//            : The adder calculates the sum in 7 clock cycles
+//            : The adder calculates the sum in 6 clock cycles
 //            : 
 // Limitations: None
 //            : 
